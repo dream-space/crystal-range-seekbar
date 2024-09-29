@@ -1,2 +1,3 @@
+rootProject.name = "crystalrangeseekbar"
 include ':app'
-include ':crystalrangeseekbar'
+include ':library'
